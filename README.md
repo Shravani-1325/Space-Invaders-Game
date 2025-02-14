@@ -7,7 +7,7 @@ A classic **Space Invaders** game built with **Python & Pygame**. Defend space b
 
   
 
-![Game Screenshot](r"assets/game_view.png")
+![Game Screenshot](assets/game_view.png)
 
   
 
